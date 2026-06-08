@@ -1,0 +1,7 @@
+
+name    rating
+sindhu  5
+sushma  4
+raji    3
+ranju   5
+suppi   2
